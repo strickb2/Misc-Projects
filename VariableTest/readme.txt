@@ -1,0 +1,1 @@
+1st test provided by Udemy Javascript course.
