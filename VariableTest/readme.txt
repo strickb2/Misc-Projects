@@ -1,1 +1,1 @@
-1st test provided by Udemy Javascript course.
+1st assignment given by Udemy Javascript course.
